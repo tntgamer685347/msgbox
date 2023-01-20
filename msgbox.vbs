@@ -1,3 +1,3 @@
 do
-x=msgbox("Du COCK!!!!!")
+  x=msgbox("kek")
 loop	
